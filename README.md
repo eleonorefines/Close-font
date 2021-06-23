@@ -1,5 +1,5 @@
 # Close-font
-[Des codes des signes des armes](descodesdessignesdesarmes.eleonorefines.fr)
+[Des codes des signes des armes](https://descodesdessignesdesarmes.eleonorefines.fr/)
 
-[Close](close.eleonorefines.fr)
+[Close](https://close.eleonorefines.fr/)
 
